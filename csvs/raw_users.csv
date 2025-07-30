@@ -1,0 +1,101 @@
+user_id,username,country,signup_date,age,gender
+daee95ea-06b9-4b6c-a8de-3d86782b8ca3,devans,Albania,2025-06-16,38,Male
+5088a439-549d-45e9-8b9e-a6e1047314f4,stoutkyle,Lesotho,2025-06-07,42,Other
+1653a69d-5bba-402d-8354-c45a3af58ef6,ksmith,New Zealand,2025-06-13,45,Other
+285d6cda-8990-4ad5-9731-1300b0c95d27,ahuerta,British Indian Ocean Territory (Chagos Archipelago),2025-06-16,14,Other
+a30ea526-4194-46de-8683-a10c500004cb,eringonzalez,British Indian Ocean Territory (Chagos Archipelago),2025-06-06,18,Other
+5e5bd33d-af1a-4554-93eb-65c81b2adb9b,michaelburns,Argentina,2025-06-19,44,Other
+c9acdb83-5ca7-445c-bbfa-b561ba6756f1,ericathomas,Saint Barthelemy,2025-06-14,29,Other
+90526054-f790-40b7-b961-453338ee3937,xvincent,Germany,2025-06-11,31,Male
+9c8484d3-cf04-4dc2-9149-302e4a903c5a,nancy89,Paraguay,2025-06-19,14,Female
+23c0eebc-cb74-427e-91b7-9d937d8a972f,michael91,Micronesia,2025-06-13,45,Female
+8393979f-a58e-4d71-9343-f829a0e7dc32,allenleslie,Belize,2025-06-07,27,Other
+0630e83a-4a0b-4edf-84dc-a9e69946b10d,udiaz,Saint Martin,2025-06-19,30,Female
+261e0df6-f5d3-423c-a5fb-a5c3567d8452,davisstephanie,Gambia,2025-06-10,27,Other
+cad40e22-f3ad-4fd5-8eaa-2cca4fea5341,raymonddavis,French Polynesia,2025-06-12,13,Female
+52ddc5d3-1690-4558-bb94-de823e7d0f9a,waltercunningham,Dominican Republic,2025-06-10,14,Other
+533ae3f0-7957-4c25-8f70-6b15e846cbd5,jeremyroberts,Sudan,2025-06-15,31,Female
+5face1c0-35aa-4b63-99ba-64031acb1cc2,hharris,Argentina,2025-06-13,33,Other
+f134c830-bb9d-4120-93bc-9bcb20362171,kevin63,Solomon Islands,2025-06-23,30,Male
+fc545091-dbf8-4bfc-a4ec-0d9bc50fb6aa,tonysmith,Portugal,2025-06-08,25,Other
+eb517694-0d42-4f1d-8df3-5daa32a8f871,bferguson,Uruguay,2025-06-09,29,Female
+8a45020c-e81d-4516-84a2-2eefc1440a56,npruitt,Guinea,2025-06-13,20,Other
+a3249cae-c972-48c9-8156-66e5b71a2c06,williamscameron,Lao People's Democratic Republic,2025-06-16,27,Other
+def91783-065f-41f5-877e-9eb4fd0e0e38,kenneth49,New Zealand,2025-06-05,17,Male
+406b891f-0fbb-443a-b0ff-e654f8c1efa4,nmcmillan,Malta,2025-06-11,42,Other
+af02801e-16f5-46f8-b528-a39550ecd4f0,nicholasmartinez,Sao Tome and Principe,2025-06-09,40,Other
+1f5ea1cd-06af-42a7-ae9c-ec8d525ac823,beltranstefanie,Cambodia,2025-06-20,24,Other
+65547626-ea09-4f19-89a4-0e2f54bebafb,beasleyscott,Belize,2025-06-13,39,Male
+ee2a12ea-1d26-411f-92ba-2929cb0d9e56,whines,Lesotho,2025-06-19,36,Male
+b868cb89-2771-4c42-a312-b42620176610,christina44,Tanzania,2025-06-15,25,Female
+fe756c63-b6a9-41fc-8efa-81fd355530e5,cathyochoa,Australia,2025-06-20,23,Male
+4898849b-5331-4433-8491-50a1bf7fb73c,williamburgess,Barbados,2025-06-16,24,Female
+00715f04-9736-4ff8-b74f-970a597c1ee9,richardfriedman,Norway,2025-06-17,32,Female
+79eb46e8-4896-47be-9ebd-1a1c2317aa8c,usmith,Montserrat,2025-06-22,29,Male
+53545045-016e-4026-bbbf-82eab282c5f5,ihansen,Guinea-Bissau,2025-06-08,25,Other
+011f9829-e5e1-416c-9f33-868b8ac463ee,heatherdominguez,Spain,2025-06-17,22,Other
+8529d2d1-3ee6-4267-b6b0-4ee6b2e0941d,murrayscott,Netherlands Antilles,2025-06-14,39,Other
+2be83558-835f-4dc7-9c8c-26d29878712c,browneric,Guinea,2025-06-18,13,Other
+ffc78b24-721d-4a59-9b6f-2d7a398ce0f2,danielschristopher,India,2025-06-22,19,Male
+d44b4244-e7af-4423-8142-615bce708fe7,gomezmichael,Switzerland,2025-06-19,30,Male
+805fae86-fc68-415c-93ad-a182b1f5d785,johnsonsteven,Wallis and Futuna,2025-06-07,33,Male
+390a4414-7abd-41a1-9f1d-287b73b006e0,lisahess,New Zealand,2025-06-13,25,Other
+bd289af1-e17a-4bd6-9951-abdbae0c389a,hansenray,Palau,2025-06-15,43,Female
+4de6313b-51d7-4835-b87e-db9b25477740,dcarlson,Tuvalu,2025-06-09,31,Female
+63b597ed-30e5-4e1f-aacd-8781de87874b,lesliecarter,Guernsey,2025-06-22,16,Female
+8b34e3c6-f88c-49ff-a78f-8b1649dd0db3,castillomichael,Martinique,2025-06-06,44,Female
+a5d45214-25ed-4ece-b766-3f92eca09756,williamsrachel,United Arab Emirates,2025-06-06,34,Female
+b0b7b2e1-e908-4d4a-bab6-062efce0556b,dianalee,United Kingdom,2025-06-15,13,Female
+ddba6a0a-b0a4-4219-b19c-78bae0ebe5fc,qreyes,Oman,2025-06-05,22,Female
+56bb07d6-3fd6-4ab8-a5b0-fccbd16bf18f,lashley,Austria,2025-06-15,38,Other
+87daab1b-7354-4d8c-9d8d-a7d935f8cd72,davilajodi,Micronesia,2025-06-09,26,Female
+ddfe9b3a-ef7b-43b3-80a9-e0b35819ccdb,richardthomas,Libyan Arab Jamahiriya,2025-06-14,28,Other
+bd0785ff-9988-4ae8-9ca2-311a6af3068e,tapiamatthew,Burkina Faso,2025-06-18,32,Male
+481574bb-266d-4bc9-a521-47ca0808608e,michelle83,Kiribati,2025-06-08,40,Male
+ea19543a-4f44-4ec2-9255-596b61320447,cwalker,Norway,2025-06-05,18,Other
+60cc38fa-5ff8-4222-8519-79ab580e47cc,smithjoshua,France,2025-06-17,42,Male
+9a132cfa-b36c-4306-8b1e-d5d7c7b60908,obutler,Canada,2025-06-12,35,Female
+9fcd22d8-3461-4bec-85e9-23dab3cfae1b,josephhays,Guinea,2025-06-06,26,Female
+ab91bc15-1335-4e53-a460-7d180355ec1d,ymccoy,United States Virgin Islands,2025-06-05,37,Male
+e24ae468-f3ca-433c-b80f-0a0361c52708,colleen01,Lithuania,2025-06-05,14,Female
+ee7fdeec-16ef-4c44-a107-2bed8ad56cfe,vhenderson,United States Minor Outlying Islands,2025-06-11,37,Female
+eee6c690-39e3-4cda-a9c9-a62e855e8897,gregory55,Mali,2025-06-16,36,Female
+57c5e017-be69-459e-bd31-5047cedd6029,vrice,Korea,2025-06-07,36,Other
+c3c95b38-9881-4879-9bc7-aa808c6e2835,imacias,Gabon,2025-06-18,35,Female
+d8183404-7007-4e12-9486-c280a46aecd5,krystal09,Angola,2025-06-14,21,Male
+ca397e38-5f94-4016-933b-4b32f2e3ea7f,francoerin,Reunion,2025-06-20,44,Female
+f0c5e5ef-c62b-43e9-9869-06a079fa6281,martinlevi,Brunei Darussalam,2025-06-17,19,Female
+3a92d617-7edb-479f-8679-f5b3102b4e90,brittney89,Peru,2025-06-11,35,Male
+e5e7a7aa-a8e3-466d-8aab-ac09d55998c2,jill65,Haiti,2025-06-15,17,Other
+7047e1b8-82a6-490f-b97e-094ccb841301,ngarcia,Palestinian Territory,2025-06-13,23,Other
+434e71ec-9adf-48d2-9604-231acdf4f5dd,lucas63,Tonga,2025-06-16,33,Male
+78888fe5-eef0-4edd-b81c-9cf0eb46cefc,itucker,Falkland Islands (Malvinas),2025-06-11,43,Other
+aca7892d-60d3-4b78-be1d-c9fe82f3b11d,xmcbride,Andorra,2025-06-16,28,Other
+9a8ff4da-ab61-42be-aa0b-1b7eb035b7b7,joshua25,Estonia,2025-06-12,15,Male
+ee97b356-b5c1-4433-a2b7-f7cae1c1356e,bridgespeter,Bhutan,2025-06-14,43,Male
+d8553e1f-9113-4802-920d-50ba3bae7028,richardblair,Anguilla,2025-06-23,40,Female
+3b00d14e-6c0c-4273-bebe-1e77187ae6d4,tylerrose,Cayman Islands,2025-06-18,40,Female
+65e595e8-9e15-4a72-bf99-f6cbf60ddb3b,dcampbell,Sierra Leone,2025-06-17,45,Female
+bac38875-f759-49e3-9d41-f4b21633497b,smunoz,India,2025-06-05,31,Male
+0fa3e76c-15c3-441e-a487-5da28c506288,gperez,Belize,2025-06-12,20,Male
+c3a1a5b3-44ee-4934-ae14-2f9bea27d5c2,floresbill,United Arab Emirates,2025-06-09,32,Female
+78146501-255f-4cff-8ea7-1f384a325f01,cvega,Zambia,2025-06-10,30,Female
+1f0ec03a-902b-445e-aeca-5d55215a2963,maddoxashley,Jordan,2025-06-05,38,Male
+145f752e-80d6-4520-8095-4837294819dc,nwebb,Brazil,2025-06-17,43,Male
+0115a325-0d96-432b-a076-cd0aebe1a072,randy01,Nepal,2025-06-23,33,Male
+935ab882-f47e-470d-9424-59f8555d3f6b,elijahrussell,Puerto Rico,2025-06-05,43,Female
+85cc96c6-4290-4897-835d-05235f3d5b86,pattonandrew,Saint Lucia,2025-06-05,34,Female
+d0501bb1-b1a3-42d1-b238-b00cc2d4ad40,crich,Vanuatu,2025-06-12,32,Female
+849b976c-4406-4690-bddd-fb278a518272,djohnson,Bolivia,2025-06-11,41,Female
+ebb8ba4e-6ffc-46a3-bc51-17df3e60d493,guerracindy,Taiwan,2025-06-10,32,Female
+239667ce-f63a-4836-867f-f5ade2166e99,sarahjohnston,British Virgin Islands,2025-06-19,44,Other
+6be34e13-e58d-44b1-a4e7-27d48a2de1a9,savagelatasha,Niger,2025-06-18,33,Male
+d5a9f5fc-76ea-45bd-9dc3-da49a0241e90,marthajohnson,Suriname,2025-06-21,30,Male
+de2d4e7c-d5c5-47dc-b941-f0a8c6d23edd,wesleyrios,South Georgia and the South Sandwich Islands,2025-06-13,26,Male
+5a7ee122-965c-47a8-8925-780d65ebbe5f,amypreston,Lao People's Democratic Republic,2025-06-09,39,Female
+c8b0d331-59e4-4eda-8952-60434edb928f,zmckay,Israel,2025-06-09,30,Other
+07c2a427-1bb6-4ad2-beaa-79f5c6b5cbb6,fbowen,Djibouti,2025-06-06,21,Female
+f3a3f07e-610d-4fed-bb18-2ba59da61c48,fitzgeraldkevin,Belarus,2025-06-15,24,Male
+86d6b0c6-392e-48e7-80e2-6a1eaf3c20e9,ljuarez,Aruba,2025-06-06,29,Male
+f14adc20-9ced-4935-a8b1-bfaff31627f1,annahoffman,South Africa,2025-06-09,37,Female
+10ddcb96-cac5-4f64-89b9-1e4761218e29,allison56,Samoa,2025-06-21,42,Male
